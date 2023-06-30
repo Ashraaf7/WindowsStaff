@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Browse this computer</name>
+   <tag></tag>
+   <elementGuidId>f69b0003-6150-4eee-ab53-3d1ce75ffde6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Ribbon-620_21_0_5c2efb64-3efd-d5a5-ffc7-4aa2fc888ff4Dropdown']/div/ul/li/div/ul/li/button/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.label-686</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d1f56e4-fb53-41c2-8689-f20d6535e436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-686</value>
+      <webElementGuid>94d05c6a-a60e-4b6a-b419-92b96c8c5924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse this computer</value>
+      <webElementGuid>eb89f389-d4c3-441f-8048-aee3242486bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Ribbon-620_21_0_5c2efb64-3efd-d5a5-ffc7-4aa2fc888ff4Dropdown&quot;)/div[@class=&quot;ms-FocusZone css-159 root-666&quot;]/ul[@class=&quot;list-664&quot;]/li[1]/div[1]/ul[@class=&quot;list-664&quot;]/li[@class=&quot;item-682&quot;]/button[@class=&quot;root-683&quot;]/div[@class=&quot;linkContent-684&quot;]/span[@class=&quot;label-686&quot;]</value>
+      <webElementGuid>8fc0c2ee-e063-4d6f-b60d-a4fdb9396ec3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Ribbon-620_21_0_5c2efb64-3efd-d5a5-ffc7-4aa2fc888ff4Dropdown']/div/ul/li/div/ul/li/button/div/span</value>
+      <webElementGuid>cf7a8613-ebae-4d8e-90fc-f46c48113fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Got it'])[1]/following::span[2]</value>
+      <webElementGuid>fa11b61c-0f8a-4ff4-b90b-7c657613fed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search People'])[1]/following::span[6]</value>
+      <webElementGuid>3bd428df-e5bb-4574-b470-2ab28ea0c96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OneDrive'])[1]/preceding::span[2]</value>
+      <webElementGuid>72238744-b12a-4f63-bc2a-a7ab9647c0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload and share'])[1]/preceding::span[4]</value>
+      <webElementGuid>d020d2ff-0701-4362-8676-7f91bcdb0582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse this computer']/parent::*</value>
+      <webElementGuid>8a636616-5b05-4764-8ba4-d0b3f9cefb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li/button/div/span</value>
+      <webElementGuid>882e16e1-7798-46d0-9e2d-fa6fa3763724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Browse this computer' or . = 'Browse this computer')]</value>
+      <webElementGuid>6aba531a-2797-4116-ba69-ed1f27cfb0c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
